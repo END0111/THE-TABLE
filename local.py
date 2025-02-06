@@ -1,4 +1,4 @@
-
+# Je suis la première chaise de la table et je met mon nom afin de réserver ma place sous le nom de Mathieu
 import time
 ma_variable_global = "ma_variable_global"
 ma_variable_argument = "ma_variable_argument"
